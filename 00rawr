@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Susiellapata.id</title>
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="kullabiezz.css">
+    <link rel="stylesheet" href="kullabiezz.css">
+</head>
+<body>
+    <header>
+        <div class="menu_slide">
+            <h1>Music Web Store</h1>
+            <div class="playlist">
+                <h4 class="active"><span></span><i class="bi bi-music-note-beamed"></i> Playlist</h4>
+                <h4><span></span><i class="bi bi-music-note-beamed"></i> Last Listening</h4>
+                <h4><span></span><i class="bi bi-music-note-beamed"></i> Recommended</h4>
+            </div>
+            <div class="menu_song">
+                <li class="songItem">
+                    <span>01</span>
+                    <img src="images/1.png" alt="img">
+                    <h5>
+                        <p>Fade</p>
+                        <div class="subtitle">Alan Walker</div>
+                    </h5>
+                    <i class="bi playlistPlay bi-play-circle-fill" id="1"></i>
+                </li>
+                <li class="songItem">
+                    <span>02</span>
+                    <img src="images/2.png" alt="img">
+                    <h5>
+                        <p>Main Hoon Hero Tera (Salman Khan Version) Full Song(MP3 70K)</p>
+                        <div class="subtitle">Salman Khan</div>
+                    </h5>
+                    <i class="bi playlistPlay bi-play-circle-fill" id="2"></i>
